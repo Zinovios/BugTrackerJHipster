@@ -41,6 +41,8 @@
     "jwtSecretKey": "MjEyZTU1NjFlNGZmYmFmYzQ3YWEyNTdkZGJkN2Q3MjM0NGQ0OTAwODY4MDNjODgxNDk4YzA0ZjgzYTE2NGI5NWM2OWFmODgwNjYxNzQwNjRjNzA2NmNiZmM2NjgxY2RhZWE2NTAxYWU4MTE3NWNmMzVjNDg2ZTM2MzI5MzQyYmQ=",
     "clientPackageManager": "npm",
     "clientThemeVariant": "",
-    "languages": ["en", "fr"]
+    "languages": ["en", "fr"],
+    "entities": ["Project", "Label", "Ticket"],
+    "lastLiquibaseTimestamp": 1617140971000
   }
 }
